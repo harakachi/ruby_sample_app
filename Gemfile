@@ -23,6 +23,7 @@ group :test do
   gem 'guard', '2.6.1'
   gem 'guard-rspec', '2.5.0'
   gem 'factory_girl_rails', '4.2.1'
+  gem 'pry-nav'
 end
 
 gem 'sass-rails', '4.0.5'
